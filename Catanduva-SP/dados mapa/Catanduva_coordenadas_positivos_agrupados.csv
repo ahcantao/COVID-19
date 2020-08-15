@@ -4,8 +4,8 @@ latitude,longitude,quantidade,bairro
 -21.1339097,-48.9628949,59,São Francisco
 -21.1466013,-48.9399593,55,Bom Pastor 
 -21.1528555,-48.9739841,53,Vila Sotto
--21.1254463,-49.0192301,48,Prq Iracema
--21.142134,-48.9647028,48,Nova Catanduva 1 
+-21.142134,-48.9647028,48,Prq Iracema
+-21.1254463,-49.0192301,48,Nova Catanduva 1 
 -21.1413269,-48.9467258,45,Loteamento Solo Sagrado
 -21.166044,-48.9697166,43,Cidade Jardim
 -21.1171114,-48.9719408,41,Jardim Salles
@@ -13,102 +13,102 @@ latitude,longitude,quantidade,bairro
 -21.1451935,-48.9898584,39,Agudo Romao 
 -21.1405336,-48.9949894,38,Martani
 -21.1422301,-49.0015708,27,Loteamento Parque Jose Cury
--21.1324168,-48.9533112,25,Jose Curi
+-21.1422301,-49.0015708,27,Jose Curi
 -21.1469831,-48.9949314,25,Jardim Del Rey
--21.131428,-49.0204391,24,Jardim Vertoni
--21.1457857,-48.9681015,23,Jardim Imperial
--21.1374272,-48.9475549,22,Vila Celso
--21.1562747,-48.9662687,21,Conj. Euclides
--21.137568,-48.957786,20,Parque Residencial Paraiso
+-21.1324168,-48.9533112,25,Jardim Vertoni
+-21.131428,-49.0204391,24,Jardim Imperial
+-21.1457857,-48.9681015,23,Vila Celso
+-21.1374272,-48.9475549,22,Conj. Euclides
+-21.1562747,-48.9662687,21,Parque Residencial Paraiso
 -21.1246503,-48.9754295,20,Vila Motta
--21.1437523,-49.0015759,20,Jardim Santa Rosa
--21.1231302,-48.9402222,19,Agudo Romão II
+-21.137568,-48.957786,20,Jardim Santa Rosa
+-21.1437523,-49.0015759,20,Agudo Romão II
 -21.1286129,-48.9565274,19,Bela Vista
--21.1540304,-48.9872515,18,Gloria VI
--21.134828,-48.9821828,18,Parque Joaquim Lopes 
--21.1605431,-48.9768902,18,Vila Rodrigues
--21.1458785,-48.9819217,16,Jardim Alpino
+-21.1231302,-48.9402222,19,Gloria VI
+-21.1540304,-48.9872515,18,Parque Joaquim Lopes 
+-21.134828,-48.9821828,18,Vila Rodrigues
+-21.1605431,-48.9768902,18,Jardim Alpino
 -21.1262634,-48.9561077,16,Pq. Glória
--21.1294581,-49.0143398,15,Jd Amendola
+-21.1458785,-48.9819217,16,Jd Amendola
 -21.1599265,-48.9701537,15,Monte Libano
--21.1390409,-48.9848143,14,Gabriel Hernandes
--21.1179631,-48.9610789,13,Santo Antonio
--21.124763,-48.953635,13,Giorgiano Mestrinelli
--21.1548513,-48.9388901,13,Parque Gloria II
--21.1610341,-48.9428049,13,Jardim Caparroz
--21.1306897,-48.993836,13,Pacha
--21.139698,-48.9521787,12,Conjunto Habitacional Prefeito Pedro Nechar
--21.1528723,-48.9418241,11,Jd São Domingos
--21.1359918,-48.9927432,11,Pacha II
+-21.1294581,-49.0143398,15,Gabriel Hernandes
+-21.1390409,-48.9848143,14,Santo Antonio
+-21.1306897,-48.993836,13,Giorgiano Mestrinelli
+-21.124763,-48.953635,13,Parque Gloria II
+-21.1179631,-48.9610789,13,Jardim Caparroz
+-21.1548513,-48.9388901,13,Pacha
+-21.1610341,-48.9428049,13,Conjunto Habitacional Prefeito Pedro Nechar
+-21.139698,-48.9521787,12,Jd São Domingos
+-21.1528723,-48.9418241,11,Pacha II
 -21.1207995,-48.9486141,11,Sebastião Moraes
--21.1254931,-48.9455499,11,Vila Engracia
--21.1162867,-48.9587068,9,Gloria V
--21.1288958,-48.9580767,8,Colina Do Sol
+-21.1359918,-48.9927432,11,Vila Engracia
+-21.1254931,-48.9455499,11,Gloria V
+-21.1162867,-48.9587068,9,Colina Do Sol
 -21.144863,-48.9484981,9,Solo Sagrado II
--21.1288958,-48.9704208,1,Jardim Paulista 
--21.1350525,-48.9569212,8,Jardim Dos Coqueiros
--21.1274963,-48.9858899,8,Novo Tarraf
+-21.1274963,-48.9858899,8,Jardim Paulista 
+-21.1693926,-49.0000412,8,Jardim Dos Coqueiros
+-21.1127917,-48.9655023,8,Novo Tarraf
 -21.1275048,-48.9636192,8,Jardim Do Bosque
--21.1237242,-49.0169254,8,Parque Gloria III
--21.1513216,-48.9679042,8,Julio Ramos
--21.1531344,-48.9378483,8,Loteamento Cerradinho
--21.1693926,-49.0000412,8,Jardim America
--21.1127917,-48.9655023,8,Conjunto Habitacional Giuseppe Spina
--21.1235083,-48.9534364,8,Vila Alexandria
--21.1379711,-48.9464209,7,Juca Pedro
--21.1581702,-48.995294,7,Res Julia Caparroz
--21.1612046,-48.9643781,7,Conjunto Habitacional Deputado Antonio Mastrocola
--21.1312004,-48.9939825,7,Cj Euclides II
+-21.1235083,-48.9534364,8,Parque Gloria III
+-21.1237242,-49.0169254,8,Julio Ramos
+-21.1288958,-48.9580767,8,Loteamento Cerradinho
+-21.1513216,-48.9679042,8,Jardim America
+-21.1531344,-48.9378483,8,Conjunto Habitacional Giuseppe Spina
+-21.1350525,-48.9569212,8,Vila Alexandria
+-21.150396,-48.981411,7,Juca Pedro
+-21.1105633,-48.9599671,7,Res Julia Caparroz
+-21.1312004,-48.9939825,7,Conjunto Habitacional Deputado Antonio Mastrocola
+-21.1379711,-48.9464209,7,Cj Euclides II
 -21.1213844,-48.9511459,7,Parque Glória IV
--21.1121421,-48.955683,7,Alto Da Boa Vista
--21.150396,-48.981411,7,Jardim Pedro Borgonove
+-21.1612046,-48.9643781,7,Alto Da Boa Vista
+-21.1121421,-48.955683,7,Jardim Pedro Borgonove
 -21.158759,-48.9915745,7,Pedro Monteleone 
 -21.1264159,-48.9486187,7,Nosso Teto
--21.1105633,-48.9599671,7,Luminar
--21.1298032,-48.9894229,6,Theodoro R Filho
--21.1285601,-48.9819753,6,Tarraf
--21.1144464,-48.9664264,6,Jardim Augusta
--21.1203485,-48.9837617,6,Vila Guzzo
--21.1329201,-48.9593369,6,Jardim Ipanema
+-21.1581702,-48.995294,7,Luminar
+-21.1203485,-48.9837617,6,Theodoro R Filho
+-21.1144464,-48.9664264,6,Tarraf
+-21.1329201,-48.9593369,6,Jardim Augusta
+-21.1285601,-48.9819753,6,Vila Guzzo
+-21.1298032,-48.9894229,6,Jardim Ipanema
 -21.1218329,-48.9646157,6,Lunardeli 
--21.1555392,-48.9812733,5,Jardim Eldorado
--21.14894,-48.9447938,5,Irradiaçao
--21.1511627,-48.9634025,5,Jd Primavera
+-21.14894,-48.9447938,5,Jardim Eldorado
+-21.1511627,-48.9634025,5,Irradiaçao
+-21.1555392,-48.9812733,5,Jd Primavera
 -21.1317032,-48.9969898,5,Gavioli
--21.1356254,-48.9881461,4,Parque Residencial Maria L P F
--21.1245482,-48.9830392,4,Jardim Do Lago
--21.1391706,-49.0005608,4,Loteamento Altos Do Higienopolis
--21.1647785,-48.9743945,4,Vila Bela
--21.1192004,-48.9671997,4,Jardim Santa Paula
--21.1166197,-48.9659932,4,Vila São Luiz       
--21.115074,-48.9665693,4,Conjunto Habitacional Prefeito Joao Righini
--21.1494052,-48.9623931,3,Cecap
--21.1265492,-49.0091743,3,Residencial Granville
--21.1575995,-48.9750912,3,Residencial Isabela
+-21.115074,-48.9665693,4,Parque Residencial Maria L P F
+-21.1356254,-48.9881461,4,Jardim Do Lago
+-21.1166197,-48.9659932,4,Loteamento Altos Do Higienopolis
+-21.1192004,-48.9671997,4,Vila Bela
+-21.1391706,-49.0005608,4,Jardim Santa Paula
+-21.1245482,-48.9830392,4,Vila São Luiz       
+-21.1647785,-48.9743945,4,Conjunto Habitacional Prefeito Joao Righini
+-21.1575995,-48.9750912,3,Cecap
+-21.1583197,-48.9817282,3,Residencial Granville
+-21.1398791,-48.9899787,3,Residencial Isabela
 -21.1460173,-48.9772624,3,Jardim Brasila
 -21.1490001,-48.9372869,3,Residencial Dos Ipes
--21.1583197,-48.9817282,3,Nova Catanduva II 
--21.1469784,-48.9646932,3,Jardim Santa Helena
--21.1398791,-48.9899787,3,Distrito Industrial
--21.1219006,-49.0161118,3,Loteamento Jorge Mauad
+-21.1219006,-49.0161118,3,Nova Catanduva II 
+-21.1494052,-48.9623931,3,Jardim Santa Helena
+-21.1265492,-49.0091743,3,Distrito Industrial
+-21.1469784,-48.9646932,3,Loteamento Jorge Mauad
 -21.1334704,-48.9544537,3,Residencial Chiodini
--21.1211866,-48.9452638,2,Jardim Aeroporto
--21.1520679,-48.964809,2,Conjunto Habitacional Pedro Luis Boso
--21.1297813,-48.9516076,2,Monte Carlo
--21.1584828,-48.9435857,2,Res J Carvalho
--21.1216607,-48.9760376,2,Residencial Lunardelli
--21.1205112,-48.9668986,2,Jardim Esperanca
--21.1487872,-48.9836505,2,Loteamento Nacoes Unidas
--21.1274742,-49.0126073,1,Jardim Shangri-La
--21.1346895,-49.009138,1,Jardim Oriental
--21.1940187,-49.0063871,1,Conjunto Habitacional Carlos Alberto Magalhaes
--21.1444259,-48.9954949,1,Acapulco
--21.1352412,-48.9897452,1,Jard Alvorada
--21.1229656,-48.9704204,1,Km 7
--21.127957,-48.9514991,1,Residencial Top Life
--21.1186081,-48.9804922,1,Residencial Primavera
+-21.1487872,-48.9836505,2,Jardim Aeroporto
+-21.1584828,-48.9435857,2,Conjunto Habitacional Pedro Luis Boso
+-21.1216607,-48.9760376,2,Monte Carlo
+-21.1211866,-48.9452638,2,Res J Carvalho
+-21.1205112,-48.9668986,2,Residencial Lunardelli
+-21.1297813,-48.9516076,2,Jardim Esperanca
+-21.1520679,-48.964809,2,Loteamento Nacoes Unidas
+-21.1356251,-49.0050392,1,Jardim Shangri-La
+-21.1649408,-48.9375788,1,Jardim Oriental
+-21.127957,-48.9514991,1,Conjunto Habitacional Carlos Alberto Magalhaes
+-21.1186081,-48.9804922,1,Acapulco
+-21.1346895,-49.009138,1,Jard Alvorada
+-21.1940187,-49.0063871,1,Km 7
+-21.1444259,-48.9954949,1,Residencial Top Life
+-21.1352412,-48.9897452,1,Residencial Primavera
 -21.1328173,-48.984503,1,Vila Stocco
--21.1356251,-49.0050392,1,Orlando Facci
--21.1649408,-48.9375788,1,Vila Jorge
--21.1800442,-49.0038612,1,Vila São Jorge
+-21.1274742,-49.0126073,1,Orlando Facci
+-21.1229656,-48.9704204,1,Vila Jorge
+-21.1288958,-48.9704208,1,Vila São Jorge
 -21.1800442,-49.0038612,1,Coqueiros 2
